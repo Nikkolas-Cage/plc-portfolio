@@ -134,29 +134,6 @@ This project demonstrates:
 
 ---
 
-TODO
-
-* HMI interface
-* PLC simulation
-* System behavior
-
----
-
-## 👨‍💻 Author
-
-**Nico Guarnes**
-
-* PLC / Industrial Automation Enthusiast
-* Backend Developer (MERN Stack)
-* Systems Builder
-
----
-
-## 📄 License
-
-MIT License
-
----
 
 
 ## HMI Graphical UI Design (Screenshots)
@@ -178,5 +155,30 @@ MIT License
 
 
 
+
 <img width="1011" height="783" alt="image" src="https://github.com/user-attachments/assets/98e742ef-6fc1-43fe-aef7-cdbf270f9e7a" />
+
+## Function Blocks
+ 
+### Task 1 : 
+* System behavior
+<img width="3509" height="4961" alt="1_page-0001" src="https://github.com/user-attachments/assets/155b4018-716f-4869-985b-7daf937870d3" />
+<img width="3509" height="4961" alt="1_page-0002" src="https://github.com/user-attachments/assets/19b18672-a652-4649-b2e2-df47902b3872" />
+---
+
+## 👨‍💻 Author
+
+**Nico Guarnes**
+
+* PLC / Industrial Automation Enthusiast
+* Backend Developer (MERN Stack)
+* Systems Builder
+
+---
+
+## 📄 License
+
+MIT License
+
+---
 
