@@ -134,37 +134,6 @@ This project demonstrates:
 
 ---
 
-## 🧪 Suggested Improvements
-
-To make this **job-ready / standout portfolio**:
-
-### 1. Add Documentation
-
-* I/O Mapping Table
-* Process Flow Diagram
-* State Machine Diagram
-
-### 2. Add Screenshots
-
-* HMI interface
-* Ladder logic view
-* Simulation running
-
-### 3. Modularize Code
-
-* Use Function Blocks (FBs)
-* Use Data Blocks (DBs)
-
-### 4. Add Description of System
-
-Example:
-
-> “This system simulates a conveyor sorting process with sensor-based object detection and actuator control.”
-
----
-
-## 📸 Demo (Recommended)
-
 TODO
 
 * HMI interface
