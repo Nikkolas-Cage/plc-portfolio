@@ -158,12 +158,18 @@ This project demonstrates:
 
 <img width="1011" height="783" alt="image" src="https://github.com/user-attachments/assets/98e742ef-6fc1-43fe-aef7-cdbf270f9e7a" />
 
-## Function Blocks
- 
-### Task 1 : 
-* System behavior
-<img width="3509" height="4961" alt="1_page-0001" src="https://github.com/user-attachments/assets/155b4018-716f-4869-985b-7daf937870d3" />
-<img width="3509" height="4961" alt="1_page-0002" src="https://github.com/user-attachments/assets/19b18672-a652-4649-b2e2-df47902b3872" />
+## Function Blocks Documentations
+### 🏭 **PRACTICAL 1 : MOTOR CONTROL**
+
+> This project demonstrates the application of the TON (On-Delay Timer) instruction in a PLC-controlled system. The implementation includes configurable preset times and supports both count-up and countdown timer operations, with real-time visualization and interaction through an HMI interface.
+
+---
+
+<img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0004" src="https://github.com/user-attachments/assets/094d21d8-67f4-4786-80bc-ab5b5c9d6954" />
+<img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0003" src="https://github.com/user-attachments/assets/44039c89-446d-48ed-8ee0-be3773fe9ca5" />
+<img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0002" src="https://github.com/user-attachments/assets/790bfe80-c26b-4471-8e57-af233a67da30" />
+<img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0001" src="https://github.com/user-attachments/assets/5f577b1d-b043-45dd-a01a-5570a4629a15" />
+
 ---
 
 ## 👨‍💻 Author
