@@ -164,10 +164,6 @@ This project demonstrates:
 
 **Nico Guarnes**
 
-* PLC / Industrial Automation Enthusiast
-* Backend Developer (MERN Stack)
-* Systems Builder
-
 ---
 
 ## 📄 License
