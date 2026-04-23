@@ -255,6 +255,16 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Nico Guarnes**
+### Me Snaps during training:
+<img width="3024" height="4032" alt="unnamed (2)" src="https://github.com/user-attachments/assets/1ea11278-ad75-4b2c-b92d-c88f461d65d6" />
+<img width="4032" height="3024" alt="unnamed (1)" src="https://github.com/user-attachments/assets/c01713ed-fe91-4003-9693-cd021e9c2310" />
+<img width="4032" height="3024" alt="unnamed (6)" src="https://github.com/user-attachments/assets/14f6804d-db00-4d14-9b74-6ea593cd0ad9" />
+<img width="4032" height="3024" alt="unnamed (5)" src="https://github.com/user-attachments/assets/02f22574-0b52-47b9-9006-912e337cbe6b" />
+<img width="3024" height="4032" alt="unnamed (4)" src="https://github.com/user-attachments/assets/7a3d0133-9c6c-4814-b92b-16633c5ab7dd" />
+<img width="3024" height="4032" alt="unnamed (3)" src="https://github.com/user-attachments/assets/bf30c0f2-33c6-4c26-9aa4-ae1a055cbfeb" />
+
+
+
 
 ---
 
