@@ -1,3 +1,198 @@
+---
+
+# ⚙️ PLC & HMI Automation Project (TIA Portal)
+
+A **Siemens TIA Portal-based industrial automation project** demonstrating PLC programming, HMI integration, and real-time control system design.
+
+This project simulates a complete automation workflow including **PLC logic execution, HMI interaction, and system monitoring**, reflecting real-world industrial applications.
+
+---
+
+## 📌 Project Overview
+
+This repository contains a fully configured **TIA Portal project** with:
+
+* PLC program logic
+* HMI (Human Machine Interface) configuration
+* Runtime simulation files
+* System-level configuration data
+
+The project demonstrates how PLCs interact with HMI systems to control and visualize industrial processes.
+
+---
+
+## 🧠 Key Features
+
+* 🔄 **Real-time PLC control logic**
+* 🖥️ **HMI interface for monitoring & control**
+* 📡 **Data exchange between PLC and HMI**
+* ⚙️ **Structured automation workflow**
+* 🧪 **Simulation-ready environment**
+
+---
+
+## 🛠️ Technologies Used
+
+* **Siemens TIA Portal**
+* **PLC Programming (Ladder Logic / FBD / STL)**
+* **WinCC HMI (Integrated)**
+* Industrial automation concepts
+
+---
+
+## 📂 Project Structure
+
+```bash
+PLC Project/
+│
+├── IM/                     # Main project configuration (TIA Portal core)
+│   ├── HMI/               # HMI runtime and interface files
+│   │   ├── Generates/
+│   │   ├── qcontrols/
+│   │   └── SimWork/
+│   │
+│   ├── SPL/               # PLC logic configuration
+│   ├── System/            # System-level runtime data
+│   ├── UserFiles/         # User-defined files (if any)
+│   ├── Vci/               # Version control data
+│   └── XRef/              # Cross-reference database
+│
+├── AdditionalFiles/       # Archive and supporting project data
+│   └── PLCM/
+│
+├── Logs/                  # System logs
+├── TMP/                   # Temporary files
+└── .git/                  # Version control (should not be uploaded ideally)
+```
+
+---
+
+## 🖥️ HMI System
+
+The project includes a configured **WinCC HMI interface**:
+
+* Interactive controls (buttons, indicators)
+* Real-time process visualization
+* PLC variable binding
+* Simulation runtime support
+
+HMI files are located in:
+
+```bash
+IM/HMI/S/0/Generates/
+```
+
+---
+
+## ⚙️ PLC Logic
+
+The PLC program (inside `SPL/`) contains:
+
+* Control logic for automation process
+* Input/output handling
+* Sequential execution logic
+* Possibly timers, counters, and conditions
+
+---
+
+## 🚀 How to Run
+
+### Requirements:
+
+* Siemens **TIA Portal (same or compatible version)**
+
+### Steps:
+
+1. Open **TIA Portal**
+2. Import/Open the project folder
+3. Load the project
+4. Start:
+
+   * PLC simulation (PLCSIM) OR
+   * Connect to real PLC hardware
+5. Launch HMI Runtime (if configured)
+6. Monitor and test the system
+
+---
+
+## 📊 Learning Outcomes
+
+This project demonstrates:
+
+* Integration of PLC and HMI systems
+* Real-time industrial control design
+* Automation logic structuring
+* Simulation-based testing
+
+---
+
+## ⚠️ Important Notes
+
+* ❌ Remove unrelated or inappropriate files (e.g., `sexy pics.*`)
+* ❌ Avoid committing `.git` inside another repo (nested repo issue)
+* ✅ Clean project before presenting to employers
+
+---
+
+## 🧪 Suggested Improvements
+
+To make this **job-ready / standout portfolio**:
+
+### 1. Add Documentation
+
+* I/O Mapping Table
+* Process Flow Diagram
+* State Machine Diagram
+
+### 2. Add Screenshots
+
+* HMI interface
+* Ladder logic view
+* Simulation running
+
+### 3. Modularize Code
+
+* Use Function Blocks (FBs)
+* Use Data Blocks (DBs)
+
+### 4. Add Description of System
+
+Example:
+
+> “This system simulates a conveyor sorting process with sensor-based object detection and actuator control.”
+
+---
+
+## 📸 Demo (Recommended)
+
+TODO
+
+* HMI interface
+* PLC simulation
+* System behavior
+
+---
+
+## 👨‍💻 Author
+
+**Nico Guarnes**
+
+* PLC / Industrial Automation Enthusiast
+* Backend Developer (MERN Stack)
+* Systems Builder
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+
+## HMI Graphical UI Design (Screenshots)
+
+
 <img width="1011" height="781" alt="image" src="https://github.com/user-attachments/assets/994920c0-b0fe-482e-9d83-80e7fc063791" />
 
 <img width="1011" height="787" alt="image" src="https://github.com/user-attachments/assets/ed2719fd-6b7e-4fd4-bb51-0ac80a1cde48" />
