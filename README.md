@@ -151,6 +151,14 @@ This project demonstrates:
 
 > This project demonstrates the application of the TON (On-Delay Timer) instruction in a PLC-controlled system. The implementation includes configurable preset times and supports both count-up and countdown timer operations, with real-time visualization and interaction through an HMI interface.
 
+* Implements **ON-delay timer (TON)**
+* Supports:
+
+  * Start/Stop push buttons
+  * Adjustable preset time
+  * Count-up and countdown visualization via HMI
+* Demonstrates basic PLC timing control
+
 ---
 
 <img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0001" src="https://github.com/user-attachments/assets/5f577b1d-b043-45dd-a01a-5570a4629a15" />
@@ -159,6 +167,90 @@ This project demonstrates:
 <img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0004" src="https://github.com/user-attachments/assets/094d21d8-67f4-4786-80bc-ab5b5c9d6954" />
 
 ---
+---
+
+## ⚙️ **PRACTICAL 2 : SEQUENTIAL MOTOR CONTROL**
+
+> This project demonstrates a timer-based sequential control system using multiple TON (On-Delay Timer) instructions. The system automates the step-by-step activation of outputs, simulating a staged industrial process with real-time monitoring through an HMI interface.
+
+* Implements **multiple TON timers for sequential logic**
+* Supports:
+
+  * Start/Stop push button control
+  * Step-by-step output activation (g2, y2, r2)
+  * Configurable timing per stage
+  * Count-up and countdown visualization via HMI
+* Demonstrates **sequential automation and process timing control**
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0001" src="https://github.com/user-attachments/assets/f1d2945a-1875-401b-9605-3959b4ce844c" />
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0002" src="https://github.com/user-attachments/assets/d7a80bc2-49fd-40c6-847d-11b427ac3b92" />
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0003" src="https://github.com/user-attachments/assets/4a972e05-ddd1-413b-8d44-aeb2891f4904" />
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0004" src="https://github.com/user-attachments/assets/89288c7e-58a9-4a4c-bf80-dd26639ff301" />
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0005" src="https://github.com/user-attachments/assets/2e12ba98-c11c-4585-9a66-cab80ce19e16" />
+
+---
+
+
+## 🛢️ **PRACTICAL 3 : SINGLE TANK LEVEL CONTROL**
+
+> This project demonstrates a basic process control system for maintaining liquid levels in a tank using sensor inputs and actuator control. The system integrates PLC logic with HMI for real-time monitoring and manual interaction.
+
+* Implements **level-based control logic**
+* Supports:
+
+  * Start/Stop push buttons
+  * Low-level sensor detection
+  * Inlet valve control
+  * Memory-based state retention
+* Demonstrates **closed-loop style control and industrial tank automation**
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0006" src="https://github.com/user-attachments/assets/7bf72387-d002-4b1c-aeb4-f28a997cb7fd" />
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0007" src="https://github.com/user-attachments/assets/ba65296e-7758-4074-af60-3484a0d990ec" />
+
+---
+
+## 🛢️ **PRACTICAL 4 : CONTROL MIXING IN A TANK**
+
+> This project demonstrates analog signal processing and control logic for a mixing tank system. It utilizes scaling functions and conditional logic to control outputs based on sensor values, simulating real-world process automation.
+
+* Implements **analog input processing (NORM_X and SCALE_X)**
+* Supports:
+
+  * Conversion of raw analog signals to usable values
+  * Threshold-based control logic
+  * Timer-assisted output control
+  * Start/Stop operation via HMI
+* Demonstrates **analog control systems and process automation**
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0008" src="https://github.com/user-attachments/assets/c3455b0d-0b40-4f9a-a7aa-5f82bf64e5a5" />
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0009" src="https://github.com/user-attachments/assets/aa2145cf-8ed1-44f6-acb6-5088ad6b3f77" />
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0010" src="https://github.com/user-attachments/assets/0810f992-7e2a-463e-8015-4f7f49a00af0" />
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0011" src="https://github.com/user-attachments/assets/459b44a1-3f6c-43bc-9894-187d9ae27b5f" />
+
+
+
+---
+
+## 🚦 **PRACTICAL 5 : TRAFFIC LIGHTS**
+
+> This project demonstrates a fully automated traffic light control system using timer-based sequencing and interlocking logic. It ensures safe and coordinated operation between multiple traffic signals with real-time visualization via HMI.
+
+* Implements **timer-based traffic sequencing**
+* Supports:
+
+  * Start/Stop push button control
+  * Dual-lane traffic light coordination
+  * Interlocking logic to prevent conflicting signals
+  * Timed transitions (Green → Yellow → Red)
+* Demonstrates **real-world traffic control logic and safety interlocks**
+
+
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0012" src="https://github.com/user-attachments/assets/9f2b01dd-0f57-433c-8565-b4b516031629" />
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0013" src="https://github.com/user-attachments/assets/e461b6fe-62be-4c94-9b0c-d9e52df8566e" />
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0014" src="https://github.com/user-attachments/assets/f7fdcfb8-d61c-4003-9517-7dab7577e196" />
+<img width="1755" height="1241" alt="plc_automation_guarnes_Task2_page-0015" src="https://github.com/user-attachments/assets/100aafa0-a43a-4af2-ace2-e47aa39d09d1" />
+
+
+
+---
+
 
 ## 👨‍💻 Author
 
