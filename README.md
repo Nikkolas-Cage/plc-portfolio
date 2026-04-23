@@ -126,16 +126,6 @@ This project demonstrates:
 
 ---
 
-## ⚠️ Important Notes
-
-* ❌ Remove unrelated or inappropriate files (e.g., `sexy pics.*`)
-* ❌ Avoid committing `.git` inside another repo (nested repo issue)
-* ✅ Clean project before presenting to employers
-
----
-
-
-
 ## HMI Graphical UI Design (Screenshots)
 
 
