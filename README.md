@@ -155,10 +155,10 @@ This project demonstrates:
 
 ---
 
-<img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0004" src="https://github.com/user-attachments/assets/094d21d8-67f4-4786-80bc-ab5b5c9d6954" />
-<img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0003" src="https://github.com/user-attachments/assets/44039c89-446d-48ed-8ee0-be3773fe9ca5" />
-<img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0002" src="https://github.com/user-attachments/assets/790bfe80-c26b-4471-8e57-af233a67da30" />
 <img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0001" src="https://github.com/user-attachments/assets/5f577b1d-b043-45dd-a01a-5570a4629a15" />
+<img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0002" src="https://github.com/user-attachments/assets/790bfe80-c26b-4471-8e57-af233a67da30" />
+<img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0003" src="https://github.com/user-attachments/assets/44039c89-446d-48ed-8ee0-be3773fe9ca5" />
+<img width="3509" height="2481" alt="plc_automation_guarnes_Task1_page-0004" src="https://github.com/user-attachments/assets/094d21d8-67f4-4786-80bc-ab5b5c9d6954" />
 
 ---
 
